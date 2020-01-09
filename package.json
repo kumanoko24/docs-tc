@@ -1,0 +1,27 @@
+{
+  "name": "docs-tc",
+  "version": "0.0.1",
+  "description": "FST Network 產品指引中文版",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "docsify-cli": "^4.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fstnetwork/docs-tc.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fstnetwork/docs-tc/issues"
+  },
+  "homepage": "https://github.com/fstnetwork/docs-tc#readme"
+}
