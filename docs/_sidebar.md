@@ -1,5 +1,7 @@
 - [首頁](/)
 - [事前準備](/pre.md "事前準備 - FST Network 指南")
+- [開始使用](/get-started.md "開始使用 - FST Network 指南")
+- [常見問題](/faq.md "常見問題 - FST Network 指南")
 - [Fstation v1.9](/v1/ "Fstation v1.9 - FST Network 指南")
   - [FST DataRail]()
   - [FST DataRail Explorer]()
