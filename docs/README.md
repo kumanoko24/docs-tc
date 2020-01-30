@@ -1,6 +1,6 @@
 # FST Network 指南
 
-#### 歡迎來到 FST Network 開發者指南，在這您將可以學習到:
+#### 歡迎來到 FST Network 開發者指南，這份指南將會包含:
 
 - 分散式事件與帳本整合平台 Fstation 之基礎知識
 - 如何應用 Fstation 於各式資料、系統情境
